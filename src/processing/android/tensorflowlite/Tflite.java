@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package tensorflowlite;
+package processing.android.tensorflowlite;
 
 //import tensorflowlite.*;
 import processing.core.PApplet;
@@ -125,6 +125,16 @@ public class Tflite {
       //return;
     }
   }
+
+//  public MappedByteBuffer loadModelFile(Activity activity,String MODEL_FILE) throws IOException {
+//    System.out.println(MODEL_FILE);
+//    AssetFileDescriptor fileDescriptor = activity.getAssets().openFd(MODEL_FILE);
+//    FileInputStream inputStream = new FileInputStream(fileDescriptor.getFileDescriptor());
+//    FileChannel fileChannel = inputStream.getChannel();
+//    long startOffset = fileDescriptor.getStartOffset();
+//    long declaredLength = fileDescriptor.getDeclaredLength();
+//    return fileChannel.map(FileChannel.MapMode.READ_ONLY, startOffset, declaredLength);
+//  }
 
   public void setMaxResults(int maxResults) {
     this.classifier.setMaxResults(maxResults);

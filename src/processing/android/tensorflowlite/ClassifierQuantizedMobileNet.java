@@ -11,7 +11,7 @@ limitations under the License.
 
 Modifications Copyright 2019 Google LLC
 ==============================================================================*/
-package tensorflowlite;
+package processing.android.tensorflowlite;
 
 import android.app.Activity;
 import java.io.IOException;

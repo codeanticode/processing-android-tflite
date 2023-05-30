@@ -9,8 +9,8 @@ body {
 	padding-left : 10px;
 	padding-right : 8px;
 	background-color : #FFFFFF;
-	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; 
-	font-size : 100%; 
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 100%;
     font-size : 0.7em;
 	font-weight : normal;
 	line-height	: normal;
@@ -22,19 +22,19 @@ body {
 
 /* Headings */
 h1, h2, h3, h4, h5, th {
-	font-family :Arial, Helvetica, sans-serif; 	
+	font-family :Arial, Helvetica, sans-serif;
 	font-size:1.2em;
 }
 
 
-p { 
-	font-size : 1em; 		
+p {
+	font-size : 1em;
 	width:80%;
 }
 
-pre, code {  
-	font-family : "Courier New", Courier, monospace; 
-	font-size : 12px; 
+pre, code {
+	font-family : "Courier New", Courier, monospace;
+	font-size : 12px;
 	line-height : normal;
 }
 
@@ -92,7 +92,7 @@ a {
 	font-weight: normal;
 }
 
-a:hover, 
+a:hover,
 a:active {
 	text-decoration: underline;
 	font-weight: normal;
@@ -112,7 +112,7 @@ img {
 
 
 /* Navigation bar fonts */
-.NavBarCell1    { 
+.NavBarCell1    {
 	border:0;
 }
 
@@ -120,8 +120,8 @@ img {
 	border:0;
 }
 
-.NavBarFont1 { 
-	font-family: Arial, Helvetica, sans-serif;  
+.NavBarFont1 {
+	font-family: Arial, Helvetica, sans-serif;
 	font-size:1.1em;
 }
 
@@ -138,22 +138,22 @@ img {
 }
 
 
-.NavBarFont1Rev { 
+.NavBarFont1Rev {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size:1.1em;
 }
 
-.NavBarFont1Rev b { 
+.NavBarFont1Rev b {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size:1.1em;
 	font-weight:normal;
 }
 
-.NavBarCell2    { 
-	font-family: Arial, Helvetica, sans-serif; 
+.NavBarCell2    {
+	font-family: Arial, Helvetica, sans-serif;
 }
 
-.NavBarCell3    { 
+.NavBarCell3    {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -171,12 +171,12 @@ font.FrameHeadingFont {
 }
 
 /* Font used in left-hand frame lists */
-.FrameTitleFont   { 
-	font-family: Helvetica, Arial, sans-serif 
+.FrameTitleFont   {
+	font-family: Helvetica, Arial, sans-serif
 }
 
 
-.toggleList { 
+.toggleList {
 	padding:0;
 	margin:0;
 	margin-top:12px;
@@ -190,20 +190,20 @@ font.FrameHeadingFont {
 	margin:10px 0px 10px 0px;
 }
 
-.toggleList dt span { 
+.toggleList dt span {
 	font-family: monospace;
 	padding:0;
 	margin:0;
 }
 
- 
+
 .toggleList dd {
 	margin:0;
-	padding:0; 
+	padding:0;
 }
 
-html.isjs .toggleList dd { 
-  display: none; 
+html.isjs .toggleList dd {
+  display: none;
 }
 
 .toggleList pre {
@@ -216,7 +216,7 @@ html.isjs .toggleList dd {
 
 /* COLORS */
 
-pre, code {  
+pre, code {
 	color: #000000;
 }
 
@@ -231,12 +231,12 @@ h1, h2, h3, h4, h5, h6 {
 	color:#555;
 }
 
-a, 
+a,
 .toggleList dt {
 	color: #1a7eb0;
 }
 
-a:hover, 
+a:hover,
 a:active {
 	color: #1a7eb0;
 }
@@ -256,27 +256,27 @@ hr {
 }
 
 
-.TableHeadingColor     { 
+.TableHeadingColor     {
 	background: #dcdcdc;
 	color: #555;
 }
 
 
 .TableSubHeadingColor {
-	background: #EEEEFF 
+	background: #EEEEFF
 }
 
 .TableRowColor {
-	background: #FFFFFF 
+	background: #FFFFFF
 }
 
 
-.NavBarCell1    { 
-	background-color:#dcdcdc; 
-	color:#000; 
+.NavBarCell1    {
+	background-color:#dcdcdc;
+	color:#000;
 }
 
-.NavBarCell1 a { 
+.NavBarCell1 a {
 	color:#333;
 }
 
@@ -285,26 +285,26 @@ hr {
 	background-color:transparent;
 }
 
-.NavBarFont1    { 
-	color:#333; 
+.NavBarFont1    {
+	color:#333;
 }
 
 
-.NavBarFont1Rev { 
-	color:#fff; 
+.NavBarFont1Rev {
+	color:#fff;
 }
 
-.NavBarCell2 { 
-	background-color:#999; 
+.NavBarCell2 {
+	background-color:#999;
 }
 
-.NavBarCell2 a { 
-	color:#fff; 
+.NavBarCell2 a {
+	color:#fff;
 }
 
 
 
-.NavBarCell3    { 
+.NavBarCell3    {
 	background-color:#dcdcdc;
 }
 
