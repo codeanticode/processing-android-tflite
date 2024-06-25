@@ -1,15 +1,14 @@
-debug/.gradle
-debug/.idea
-debug/gradle
-debug/gradlew*
-
-library/*.jar
+.gradle
+.idea
 
 **/*.iml
 **/.DS_Store
 **/build
 **/bin
-**/distribution
+**/dist
+
+processing/distribution
+processing/library/*.jar
 
 **/local.properties
 .gradle
